@@ -2,7 +2,7 @@ const https = require('https');
 const { sendConfirmation } = require('../services/smsService.js');
 
 const initiatePayment = (phoneNumber, numberOfVotes) => {
-  const totalAmount = numberOfVotes * 100; // Amount in pesewas (GHS 1.00 per vote)
+  const totalAmount = numberOfVotes * 1; // Amount in pesewas (GHS 1.00 per vote)
 
   const params = JSON.stringify({
     email: `${phoneNumber}@example.com`, // Use a valid email in production
