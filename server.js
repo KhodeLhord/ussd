@@ -31,17 +31,7 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Something went wrong!' });
 });
 
-(async () => {
-  const phoneNumber = '233551196764'; // Replace with a test number
-  const numberOfVotes = 1;
 
-  try {
-    const result = await initiatePayment(phoneNumber, numberOfVotes);
-    console.log('Payment Test Result:', result);
-  } catch (error) {
-    console.error('Error Testing Payment:', error.message);
-  }
-})();
 
 // Start server
 const PORT = process.env.PORT || 3000;
