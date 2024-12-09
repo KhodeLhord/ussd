@@ -5,7 +5,7 @@ const initiatePayment = (phoneNumber, numberOfVotes) => {
   const totalAmount = numberOfVotes * 1; // Amount in pesewas (GHS 1.00 per vote)
 
   const params = JSON.stringify({
-    email: `${phoneNumber}@example.com`, // Use a valid email in production
+    email: `filibiinfanax10@gmail.com`, // Use a valid email in production
     amount: totalAmount,
     currency: 'GHS',
     mobile_money: {
