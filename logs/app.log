@@ -1,0 +1,365 @@
+2024-10-30T19:49:40.330Z [INFO]: MySQL Connected...
+2024-10-30T19:51:18.993Z [INFO]: MySQL Connected...
+2024-12-09T14:42:45.678Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:17:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:44:01.580Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:17:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:46:15.925Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:17:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:46:18.076Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:17:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:49:45.202Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:17:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:49:59.466Z [ERROR]: AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Xtocast Ussd\controllers\ussdController.js:27:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+2024-12-09T14:52:35.416Z [INFO]: MySQL Connected...
+2024-12-09T14:52:48.038Z [INFO]: MySQL Connected...
+2024-12-09T14:53:12.058Z [INFO]: MySQL Connected...
+2024-12-09T14:59:40.023Z [INFO]: MySQL Connected...
+2024-12-09T14:59:42.648Z [INFO]: MySQL Connected...
+2024-12-09T14:59:54.774Z [INFO]: MySQL Connected...
+2024-12-09T15:00:30.275Z [INFO]: MySQL Connected...
+2024-12-09T15:02:19.255Z [INFO]: MySQL Connected...
+2024-12-09T15:02:26.571Z [INFO]: MySQL Connected...
+2024-12-09T15:03:00.833Z [INFO]: MySQL Connected...
+2024-12-09T15:03:03.825Z [INFO]: MySQL Connected...
+2024-12-09T15:03:05.933Z [INFO]: MySQL Connected...
+2024-12-09T15:03:09.592Z [INFO]: MySQL Connected...
+2024-12-09T15:03:12.314Z [INFO]: MySQL Connected...
+2024-12-09T15:03:32.290Z [INFO]: MySQL Connected...
+2024-12-09T15:05:23.331Z [INFO]: MySQL Connected...
+2024-12-09T15:06:42.963Z [INFO]: MySQL Connected...
+2024-12-09T15:06:46.429Z [INFO]: MySQL Connected...
+2024-12-09T15:06:57.499Z [INFO]: MySQL Connected...
+2024-12-09T15:57:09.276Z [INFO]: MySQL Connected...
+2024-12-09T15:57:17.485Z [INFO]: MySQL Connected...
+2024-12-09T15:58:29.135Z [INFO]: MySQL Connected...
+2024-12-09T16:00:37.771Z [INFO]: MySQL Connected...
+2024-12-09T16:00:39.503Z [INFO]: MySQL Connected...
+2024-12-09T16:01:00.623Z [INFO]: MySQL Connected...
+2024-12-09T16:05:28.435Z [INFO]: MySQL Connected...
+2024-12-09T16:06:14.237Z [INFO]: MySQL Connected...
+2024-12-09T16:06:20.864Z [INFO]: MySQL Connected...
+2024-12-09T16:10:01.841Z [INFO]: MySQL Connected...
+2024-12-09T16:11:31.372Z [INFO]: MySQL Connected...
+2024-12-09T16:13:13.993Z [INFO]: MySQL Connected...
+2024-12-09T16:16:18.417Z [INFO]: MySQL Connected...
+2024-12-09T16:18:45.241Z [INFO]: MySQL Connected...
+2024-12-09T16:18:57.490Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:18:57.491Z [WARN]: User input was invalid during an unexpected session state.
+2024-12-09T16:20:29.897Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:20:30.061Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:20:30.062Z [INFO]: Displayed category selection to user
+2024-12-09T16:23:10.869Z [INFO]: MySQL Connected...
+2024-12-09T16:23:16.515Z [INFO]: MySQL Connected...
+2024-12-09T16:23:17.761Z [INFO]: MySQL Connected...
+2024-12-09T16:23:30.966Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:23:31.130Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:23:31.152Z [INFO]: Displayed category selection to user
+2024-12-09T16:24:26.949Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: EMA
+2024-12-09T16:24:27.105Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:24:27.111Z [WARN]: User selected an invalid category: EMA
+2024-12-09T16:25:43.274Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:25:43.452Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:25:43.460Z [INFO]: Displayed category selection to user
+2024-12-09T16:25:51.716Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:25:51.879Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:25:52.053Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:25:52.054Z [INFO]: Displayed nominees for category ARTIST OF THE YEAR
+2024-12-09T16:27:17.407Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: KWESI MERGE MONI
+2024-12-09T16:27:17.795Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:27:17.797Z [WARN]: User selected an invalid nominee: KWESI MERGE MONI
+2024-12-09T16:28:08.803Z [INFO]: MySQL Connected...
+2024-12-09T16:28:13.023Z [INFO]: MySQL Connected...
+2024-12-09T16:28:51.652Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:28:51.811Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:28:51.822Z [INFO]: Displayed category selection to user
+2024-12-09T16:29:18.819Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: ARTIST OF THE YEAR
+2024-12-09T16:29:20.026Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:29:20.034Z [WARN]: User selected an invalid category: ARTIST OF THE YEAR
+2024-12-09T16:29:34.655Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:29:34.811Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:29:34.994Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:29:35.000Z [INFO]: Displayed nominees for category ARTIST OF THE YEAR
+2024-12-09T16:30:06.874Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:30:07.033Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:30:07.039Z [INFO]: User selected nominee: KWESI MERGE MONI
+2024-12-09T16:30:50.560Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 20
+2024-12-09T16:30:50.561Z [INFO]: Initiating payment for user 233551196764 for nominee KWESI MERGE MONI with 20 votes
+2024-12-09T16:30:51.603Z [INFO]: Payment prompt sent for 20 votes
+2024-12-09T16:31:58.881Z [INFO]: MySQL Connected...
+2024-12-09T16:32:03.816Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:32:03.989Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:32:03.998Z [INFO]: Displayed category selection to user
+2024-12-09T16:32:09.790Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:32:09.954Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:32:10.125Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:32:10.132Z [INFO]: Displayed nominees for category ARTIST OF THE YEAR
+2024-12-09T16:32:14.000Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:32:14.411Z [INFO]: Fetched nominees for category 1 from offset 0
+2024-12-09T16:32:14.419Z [INFO]: User selected nominee: KWESI MERGE MONI
+2024-12-09T16:32:20.682Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 40
+2024-12-09T16:32:20.683Z [INFO]: Initiating payment for user 233551196764 for nominee KWESI MERGE MONI with 40 votes
+2024-12-09T16:32:22.580Z [INFO]: Payment prompt sent for 40 votes
+2024-12-09T16:53:43.804Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:54:05.485Z [ERROR]: Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:38:8
+    at new Promise (<anonymous>)
+    at getCategories (D:\Xtocast Ussd\controllers\ussdController.js:37:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:78:32)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+2024-12-09T16:54:05.489Z [ERROR]: Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:38:8
+    at new Promise (<anonymous>)
+    at getCategories (D:\Xtocast Ussd\controllers\ussdController.js:37:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:78:32)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+2024-12-09T16:54:36.594Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 1
+2024-12-09T16:54:36.595Z [INFO]: Initiating payment for user 233551196764 for nominee KWESI MERGE MONI with 1 votes
+2024-12-09T16:54:37.640Z [ERROR]: Payment failed: Charge attempted
+2024-12-09T16:54:47.654Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: 99
+2024-12-09T16:54:47.655Z [INFO]: Initiating payment for user 233551196764 for nominee KWESI MERGE MONI with 99 votes
+2024-12-09T16:54:48.525Z [ERROR]: Payment failed: Charge attempted
+2024-12-09T16:55:00.320Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:55:00.322Z [ERROR]: Error: Cannot enqueue Query after fatal error.
+    at Protocol._validateEnqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:212:16)
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:38:8
+    at new Promise (<anonymous>)
+    at getCategories (D:\Xtocast Ussd\controllers\ussdController.js:37:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:78:32)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+2024-12-09T16:55:00.326Z [ERROR]: Error: Cannot enqueue Query after fatal error.
+    at Protocol._validateEnqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:212:16)
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:38:8
+    at new Promise (<anonymous>)
+    at getCategories (D:\Xtocast Ussd\controllers\ussdController.js:37:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:78:32)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+2024-12-09T16:55:12.791Z [INFO]: MySQL Connected...
+2024-12-09T16:55:17.624Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T16:55:17.799Z [INFO]: Fetched categories from offset 0
+2024-12-09T16:55:17.808Z [INFO]: Displayed category selection to user
+2024-12-09T17:04:13.257Z [INFO]: MySQL Connected...
+2024-12-09T17:05:24.786Z [INFO]: Received USSD request. SessionId: 1234567890abcdef, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:05:37.510Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:05:37.690Z [ERROR]: Error fetching nominee for code *920*182#, err
+2024-12-09T17:05:37.692Z [ERROR]: Error: ER_BAD_FIELD_ERROR: Unknown column 'nominees.code' in 'where clause'
+    at Sequence._packetToError (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:28:8
+    at new Promise (<anonymous>)
+    at getNomineeByCode (D:\Xtocast Ussd\controllers\ussdController.js:27:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:73:38)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+2024-12-09T17:05:44.292Z [INFO]: MySQL Connected...
+2024-12-09T17:05:46.044Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:06:38.674Z [INFO]: MySQL Connected...
+2024-12-09T17:06:41.091Z [INFO]: MySQL Connected...
+2024-12-09T17:06:44.729Z [INFO]: MySQL Connected...
+2024-12-09T17:06:48.019Z [INFO]: MySQL Connected...
+2024-12-09T17:06:51.656Z [INFO]: MySQL Connected...
+2024-12-09T17:06:53.132Z [INFO]: MySQL Connected...
+2024-12-09T17:06:58.370Z [INFO]: MySQL Connected...
+2024-12-09T17:07:00.237Z [INFO]: MySQL Connected...
+2024-12-09T17:07:02.770Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:07:40.050Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:07:41.209Z [ERROR]: Error fetching nominee for code EMA1, err
+2024-12-09T17:07:41.224Z [ERROR]: Error: ER_BAD_FIELD_ERROR: Unknown column 'nominees.code' in 'where clause'
+    at Sequence._packetToError (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    --------------------
+    at Protocol._enqueue (D:\Xtocast Ussd\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (D:\Xtocast Ussd\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Xtocast Ussd\controllers\ussdController.js:28:8
+    at new Promise (<anonymous>)
+    at getNomineeByCode (D:\Xtocast Ussd\controllers\ussdController.js:27:10)
+    at exports.handleUssdRequest (D:\Xtocast Ussd\controllers\ussdController.js:75:38)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Xtocast Ussd\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Xtocast Ussd\node_modules\express\lib\router\layer.js:95:5)
+2024-12-09T17:08:46.678Z [INFO]: MySQL Connected...
+2024-12-09T17:08:52.831Z [INFO]: MySQL Connected...
+2024-12-09T17:08:56.228Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:08:59.833Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:10:05.569Z [INFO]: MySQL Connected...
+2024-12-09T17:10:08.895Z [INFO]: MySQL Connected...
+2024-12-09T17:10:11.310Z [INFO]: MySQL Connected...
+2024-12-09T17:10:16.115Z [INFO]: MySQL Connected...
+2024-12-09T17:10:21.057Z [INFO]: MySQL Connected...
+2024-12-09T17:10:23.777Z [INFO]: MySQL Connected...
+2024-12-09T17:10:29.301Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:10:32.747Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:11:14.105Z [INFO]: MySQL Connected...
+2024-12-09T17:11:19.918Z [INFO]: MySQL Connected...
+2024-12-09T17:11:22.368Z [INFO]: MySQL Connected...
+2024-12-09T17:11:24.859Z [INFO]: MySQL Connected...
+2024-12-09T17:11:31.232Z [INFO]: MySQL Connected...
+2024-12-09T17:11:32.436Z [INFO]: MySQL Connected...
+2024-12-09T17:11:44.758Z [INFO]: MySQL Connected...
+2024-12-09T17:12:15.187Z [INFO]: MySQL Connected...
+2024-12-09T17:12:33.084Z [INFO]: MySQL Connected...
+2024-12-09T17:12:58.789Z [INFO]: MySQL Connected...
+2024-12-09T17:13:00.072Z [INFO]: MySQL Connected...
+2024-12-09T17:13:07.690Z [INFO]: MySQL Connected...
+2024-12-09T17:13:09.036Z [INFO]: MySQL Connected...
+2024-12-09T17:13:19.336Z [INFO]: MySQL Connected...
+2024-12-09T17:13:27.209Z [INFO]: MySQL Connected...
+2024-12-09T17:13:34.276Z [INFO]: MySQL Connected...
+2024-12-09T17:13:52.230Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:13:56.086Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:14:03.394Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:14:12.145Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 10
+2024-12-09T17:14:23.325Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:14:23.326Z [INFO]: Initiating payment for 233551196764 for 10 votes
+2024-12-09T17:14:24.679Z [ERROR]: Payment failed: Charge attempted
+2024-12-09T17:17:19.906Z [INFO]: MySQL Connected...
+2024-12-09T17:17:25.571Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:17:30.305Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:17:34.710Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:17:38.124Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 10
+2024-12-09T17:17:45.365Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:17:45.367Z [INFO]: Initiating payment for 233551196764 for 10 votes
+2024-12-09T17:17:46.791Z [ERROR]: Payment failed: Error initiating payment
+2024-12-09T17:18:12.127Z [INFO]: MySQL Connected...
+2024-12-09T17:18:34.407Z [INFO]: MySQL Connected...
+2024-12-09T17:20:53.867Z [INFO]: MySQL Connected...
+2024-12-09T17:21:01.290Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: *920*182#
+2024-12-09T17:21:04.888Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: EMA1
+2024-12-09T17:21:08.419Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:21:11.646Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 10
+2024-12-09T17:21:16.599Z [INFO]: Received USSD request. SessionId: 1234567890jj, MSISDN: 233551196764, User Input: 1
+2024-12-09T17:21:16.600Z [INFO]: Initiating payment for 233551196764 for 10 votes
+2024-12-09T17:21:17.553Z [ERROR]: Payment failed: Charge attempted
+2024-12-09T17:23:22.868Z [INFO]: MySQL Connected...
+2024-12-09T17:23:42.053Z [INFO]: MySQL Connected...
+2024-12-09T17:23:53.630Z [INFO]: MySQL Connected...
+2024-12-09T17:29:33.967Z [INFO]: MySQL Connected...
+2024-12-09T17:29:54.698Z [INFO]: MySQL Connected...
+2024-12-09T17:30:17.201Z [INFO]: MySQL Connected...
+2024-12-09T17:30:20.285Z [INFO]: MySQL Connected...
+2024-12-09T17:31:25.140Z [INFO]: MySQL Connected...
+2024-12-09T17:33:40.529Z [INFO]: MySQL Connected...
+2024-12-09T17:34:08.444Z [INFO]: MySQL Connected...
+2024-12-09T17:34:19.471Z [INFO]: MySQL Connected...
+2024-12-09T17:34:29.531Z [INFO]: MySQL Connected...
+2024-12-09T17:34:34.931Z [INFO]: MySQL Connected...
+2024-12-09T17:34:42.292Z [INFO]: MySQL Connected...
+2024-12-09T17:35:34.055Z [INFO]: MySQL Connected...
+2024-12-09T17:40:46.740Z [INFO]: MySQL Connected...
